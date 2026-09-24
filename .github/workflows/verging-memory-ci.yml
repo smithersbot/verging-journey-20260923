@@ -31,5 +31,6 @@ jobs:
           api_base: https://ci-staging.verginglabs.com
           vendor_version: ${{ steps.version.outputs.short_sha }}
           product_name: "Journey Rehearsal"
-          wiring_check: "true"
+          agent_setups: "Hermes GPT-5.6 Luna (documented integration)"
+          activation_id: act_ug8g7gs
           fetch_only_release_id: ${{ inputs.fetch_only_release_id }}
