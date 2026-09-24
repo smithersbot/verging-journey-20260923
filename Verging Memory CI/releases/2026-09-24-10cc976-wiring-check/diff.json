@@ -1,0 +1,16 @@
+{
+  "format": "wiring-check/v1",
+  "stage": "wiring",
+  "wiring_check": true,
+  "product": "Journey Rehearsal",
+  "release_id": "run_20260924_8367fa679d39",
+  "date": "2026-09-24",
+  "verified": {
+    "key_authenticated": true,
+    "report_route": "/v1/releases/run_20260924_8367fa679d39/report"
+  },
+  "billing": {
+    "billable": false,
+    "reason": "wiring check: free, never billed"
+  }
+}
