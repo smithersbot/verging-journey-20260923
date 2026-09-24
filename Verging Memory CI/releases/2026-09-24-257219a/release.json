@@ -1,0 +1,12 @@
+{
+  "release_id": "run_35060506_6292cee05268",
+  "vendor_version": "257219a",
+  "scope": {
+    "suites": [
+      "onboarding",
+      "core-recall"
+    ]
+  },
+  "corrections_due_by": "2026-09-25",
+  "received_at": "2026-09-24T09:44:14Z"
+}
