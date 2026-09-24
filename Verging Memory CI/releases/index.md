@@ -10,3 +10,4 @@ One line per release, oldest first. Each release id links to its report; a relea
 | 2026-09-24 | 257219a | [run_35060506_6292cee05268](2026-09-24-257219a/REPORT.md) | Baseline recorded | preliminary |
 | 2026-09-24 | 3041b6a | [run_10014017_6f9cab9cb568](2026-09-24-3041b6a/REPORT.md) | Ready | preliminary |
 | 2026-09-24 | 793777a | [run_09581615_843032acf194](2026-09-24-793777a/REPORT.md) | Not ready: accuracy regressed on Core Recall | preliminary |
+| 2026-09-24 | 598ed84 | [run_31088867_e47b9a9b2dcc](2026-09-24-598ed84/REPORT.md) | Not ready: tokens up 81.2% | preliminary |
