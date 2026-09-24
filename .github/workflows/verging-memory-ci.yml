@@ -32,7 +32,6 @@ jobs:
           vendor_version: ${{ steps.version.outputs.short_sha }}
           product_name: "Journey Rehearsal"
           agent_setups: "Hermes GPT-5.6 Luna (documented integration)"
-          activation_id: act_ug8g7gs
+          activation_id: act_mku68cy
           suites: core-recall
-          storage_only: "true"
           fetch_only_release_id: ${{ inputs.fetch_only_release_id }}
