@@ -33,4 +33,5 @@ jobs:
           product_name: "Journey Rehearsal"
           agent_setups: "Hermes GPT-5.6 Luna (documented integration)"
           activation_id: act_ug8g7gs
+          suites: core-recall
           fetch_only_release_id: ${{ inputs.fetch_only_release_id }}
